@@ -1,2 +1,2 @@
 # mlops-zoomcamp
-learn mlops
+This is an example
